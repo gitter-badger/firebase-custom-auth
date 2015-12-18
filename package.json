@@ -27,5 +27,8 @@
     "dotenv": "^1.2.0",
     "fb": "^0.7.3",
     "firebase-token-generator": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
