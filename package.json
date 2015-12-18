@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/lipcsei/firebase-custom-auth#readme",
   "dependencies": {
+    "dotenv": "^1.2.0",
     "firebase-token-generator": "^2.0.0"
   }
 }
