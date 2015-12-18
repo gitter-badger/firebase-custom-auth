@@ -1,2 +1,3 @@
 # firebase-custom-auth
-# Auth is coming! ;-)
+
+![alt text](http://i.imgur.com/VjyGXwq.jpg "Auth is coming!")
