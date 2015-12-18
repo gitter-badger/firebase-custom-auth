@@ -1,0 +1,26 @@
+{
+  "name": "firebase-custom-auth",
+  "version": "1.0.0",
+  "description": "firebase custom auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lipcsei@github.com/lipcsei/firebase-custom-auth.git"
+  },
+  "keywords": [
+    "firebase",
+    "auth",
+    "custom",
+    "user",
+    "redis"
+  ],
+  "author": "Sandor Lipcsei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipcsei/firebase-custom-auth/issues"
+  },
+  "homepage": "https://github.com/lipcsei/firebase-custom-auth#readme"
+}
