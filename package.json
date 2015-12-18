@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lipcsei/firebase-custom-auth/issues"
   },
-  "homepage": "https://github.com/lipcsei/firebase-custom-auth#readme"
+  "homepage": "https://github.com/lipcsei/firebase-custom-auth#readme",
+  "dependencies": {
+    "firebase-token-generator": "^2.0.0"
+  }
 }
