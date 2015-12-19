@@ -26,6 +26,7 @@
   "dependencies": {
     "dotenv": "^1.2.0",
     "fb": "^0.7.3",
+    "firebase": "^2.3.2",
     "firebase-token-generator": "^2.0.0"
   },
   "devDependencies": {
