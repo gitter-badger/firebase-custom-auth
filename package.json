@@ -1,0 +1,37 @@
+{
+  "name": "firebase-custom-auth",
+  "version": "1.0.0",
+  "description": "firebase custom auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lipcsei@github.com/lipcsei/firebase-custom-auth.git"
+  },
+  "keywords": [
+    "firebase",
+    "auth",
+    "custom",
+    "user",
+    "redis"
+  ],
+  "author": "Sandor Lipcsei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipcsei/firebase-custom-auth/issues"
+  },
+  "homepage": "https://github.com/lipcsei/firebase-custom-auth#readme",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "fb": "^0.7.3",
+    "firebase": "^2.3.2",
+    "firebase-token-generator": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.21",
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0"
+  }
+}
