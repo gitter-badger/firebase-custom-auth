@@ -29,6 +29,7 @@
     "firebase-token-generator": "^2.0.0"
   },
   "devDependencies": {
+    "babel-core": "^6.3.21",
     "coffee-script": "^1.10.0",
     "gulp": "^3.9.0"
   }
